@@ -21,7 +21,7 @@
          "through"    : "2.3.x"},
     "repository" :
         {"type" : "git",
-         "url" : "//git/All files/libraries/controlkit.js.git"},
+         "url" : "//git/All files/tools/controlkit.git"},
     "homepage" : "http://github.com/automat/controlKit.js",
     "license": "MIT"
 }
